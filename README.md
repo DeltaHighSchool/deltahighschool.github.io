@@ -1,2 +1,2 @@
 # DeltaHighSchool.github.io
-web
+website with stuff on it
